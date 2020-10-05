@@ -1,0 +1,44 @@
+
+
+body{
+    background-color: rgb(179, 179, 179);
+    text-align: center;
+}
+.centr{
+    text-align: center;
+}
+
+.ninja{
+
+    background-color: #4CAF50;
+    color: white;
+    margin: 8px;
+    border: none;
+    border-radius: 4px;
+
+
+
+
+}
+
+.inputbox{
+    
+
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+
+}
+
+.btn{
+    background-color: transparent;
+    border: transparent;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
